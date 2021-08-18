@@ -1,0 +1,9 @@
+token:
+  expiration_time: 5
+  secret: asdf
+
+gateway:
+  ip: localhost
+
+haha:
+  hehe: asdfqwerzxcv
